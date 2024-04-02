@@ -1,5 +1,5 @@
 
-![image](https://github.com/bmachina001/Dannys-Diner/assets/103920296/31de62e9-1c15-4ea4-b4d5-024bcd8bd145)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 
 
  https://8weeksqlchallenge.com/
